@@ -1,3 +1,3 @@
 import numpy as np
 
-pprint(np.sqrt(7))
+print(np.sqrt(7))
